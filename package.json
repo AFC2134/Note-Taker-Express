@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AFC2134/Note-Taker-Express#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
-  }
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
 }
