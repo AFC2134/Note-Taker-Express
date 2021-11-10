@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AFC2134/Note-Taker-Express/issues"
   },
-  "homepage": "https://github.com/AFC2134/Note-Taker-Express#readme"
+  "homepage": "https://github.com/AFC2134/Note-Taker-Express#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
