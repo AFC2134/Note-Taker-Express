@@ -1,0 +1,19 @@
+{
+  "name": "note-taker-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFC2134/Note-Taker-Express.git"
+  },
+  "author": "alex cooney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFC2134/Note-Taker-Express/issues"
+  },
+  "homepage": "https://github.com/AFC2134/Note-Taker-Express#readme"
+}
