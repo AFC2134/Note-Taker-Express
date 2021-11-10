@@ -3,9 +3,11 @@ const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
 let db = require('../Develop/db/db.json')
 
+
 router.get('/notes', (req, res) => {
     res.json(db);
 });
+
 
 router.post('/notes', (req, res) => {
     req.body.id = uuidv4()
@@ -29,5 +31,6 @@ router.delete('/notes/:id', (req, res) => {
     
     res.sendStatus(204)
 })
+
 
 module.exports = router
