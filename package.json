@@ -10,15 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/AFC2134/Note-Taker-Express.git"
   },
-  "author": "alex cooney",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AFC2134/Note-Taker-Express/issues"
   },
-  "homepage": "https://github.com/AFC2134/Note-Taker-Express#readme",
-  "dependencies": {
-    "inquirer": "^8.2.0",
-    "uuid": "^8.3.2"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/AFC2134/Note-Taker-Express#readme"
 }
